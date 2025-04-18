@@ -1,4 +1,4 @@
-# Lake Area Monitoring Using MODIS Imagery
+# Lake Area Monitoring Using Landsat-8  Imagery
 This repository contains code for monitoring the change in lake area over time using Landsat-8 satellite imagery(30m spatial resolution). The project analyzes the Normalized Difference Water Index (NDWI) from Landsat-8 data to track the variation in lake area from 2015. The workflow includes the use of Google Earth Engine for satellite data processing, xarray for managing and visualizing data, and KMeans clustering for identifying water and non-water areas. The results are visualized through annual lake area maps and area calculations.
 
 
