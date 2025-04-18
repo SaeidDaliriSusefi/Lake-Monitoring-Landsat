@@ -1,1 +1,1 @@
-# Lake-Monitoring-Landsat
+# Lake Area Monitoring Using MODIS Imagery
